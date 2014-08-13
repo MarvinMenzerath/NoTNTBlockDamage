@@ -1,4 +1,4 @@
-package eu.menzerath.bukkit.notntblockdamage;
+package eu.menzerath.bukkit;
 
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
@@ -9,13 +9,11 @@ public class NoTNTBlockDamage extends JavaPlugin implements Listener {
 
     @Override
     public void onEnable() {
-        // Register the EventHandler
         getServer().getPluginManager().registerEvents(this, this);
     }
 
     @EventHandler
     public void onEntityExplode(EntityExplodeEvent e) {
-        // Prevent any Block-Damage
         e.blockList().clear();
     }
 }

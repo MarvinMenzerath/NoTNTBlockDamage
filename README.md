@@ -5,7 +5,6 @@ This very tiny Plugin prevents any TNT Block-Damage while Entities will still ge
 Grab a current Release from [here](https://github.com/MarvinMenzerath/NoTNTBlockDamage/releases) and copy it into your Plugins-Directory. That's it.
 
 ## License
-Bukkit-Plugin NoTNTBlockDamage
 Copyright (C) 2014 [Marvin Menzerath](http://menzerath.eu)
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
