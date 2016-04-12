@@ -1,6 +1,5 @@
 # No TNT Block-Damage
-This very tiny Plugin prevents any TNT Block-Damage while Entities will still get hurt.  
-[![Build Status](https://drone.io/github.com/MarvinMenzerath/NoTNTBlockDamage/status.png)](https://drone.io/github.com/MarvinMenzerath/NoTNTBlockDamage/latest)
+This very tiny Plugin prevents any TNT Block-Damage while Entities will still get hurt.
 
 ## Install
 Grab a current Release from [here](https://github.com/MarvinMenzerath/NoTNTBlockDamage/releases) and copy it into your Plugins-Directory. That's it.
